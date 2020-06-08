@@ -1,0 +1,239 @@
+1591576213453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesz4C2r"
+1591576218887	Marionette	INFO	Listening on port 33569
+1591576218906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591576242309	Marionette	INFO	Stopped listening on port 33569
+1591576258652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFNH14t"
+1591576263126	Marionette	INFO	Listening on port 46059
+1591576263182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591576292737	Marionette	INFO	Stopped listening on port 46059
+1591577635251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF4H0ha"
+1591577641534	Marionette	INFO	Listening on port 38553
+1591577641628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591577671476	Marionette	INFO	Stopped listening on port 38553
+1591577676515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexx8nnp"
+1591577681373	Marionette	INFO	Listening on port 36875
+1591577681476	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 697))
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+1591578599596	Marionette	INFO	Stopped listening on port 36875
+1591578639417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej2TCDi"
+1591578645543	Marionette	INFO	Listening on port 39881
+1591578645596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591578734703	Marionette	INFO	Stopped listening on port 39881
+1591578821174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ORoa0"
+1591578826280	Marionette	INFO	Listening on port 36213
+1591578826322	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+1591578954786	Marionette	INFO	Stopped listening on port 36213
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1C0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1591585684734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileORguGs"
+1591585690729	Marionette	INFO	Listening on port 33773
+1591585690807	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://aplicaciones.iingen.unam.mx"
+1591585929391	Marionette	INFO	Stopped listening on port 33773
+1591585945993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYj1cyo"
+1591585949892	Marionette	INFO	Listening on port 44577
+1591585949946	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+1591586101046	Marionette	INFO	Stopped listening on port 44577
+1591586105217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegGTJ0m"
+1591586109269	Marionette	INFO	Listening on port 41235
+1591586109357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591586171029	Marionette	INFO	Stopped listening on port 41235
+1591586180407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejj5XMg"
+1591586186262	Marionette	INFO	Listening on port 41167
+1591586186284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1591592959643	Marionette	INFO	Stopped listening on port 41167
+1591592985520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIoP9C3"
+1591592989673	Marionette	INFO	Listening on port 36467
+1591592989766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591593045916	Marionette	INFO	Stopped listening on port 36467
+1591593098999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu2qH6m"
+1591593102907	Marionette	INFO	Listening on port 33683
+1591593102936	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+1591593457441	Marionette	INFO	Stopped listening on port 33683
+1591593460406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUV82ok"
+1591593464302	Marionette	INFO	Listening on port 34633
+1591593464335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1591593509202	Marionette	INFO	Stopped listening on port 34633
