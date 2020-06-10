@@ -237,3 +237,126 @@ console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
 JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
 1591593509202	Marionette	INFO	Stopped listening on port 34633
+1591654001818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWDmIgd"
+1591654006210	Marionette	INFO	Listening on port 40215
+1591654006255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591654064872	Marionette	INFO	Stopped listening on port 40215
+1591654067804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileljXZn3"
+1591654071446	Marionette	INFO	Listening on port 42161
+1591654071519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591727513179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLWO76x"
+1591727517316	Marionette	INFO	Listening on port 45359
+1591727517413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591727585441	Marionette	INFO	Stopped listening on port 45359
+1591727587027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileodPaJ9"
+1591727590534	Marionette	INFO	Listening on port 34643
+1591727590567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591727612010	Marionette	INFO	Stopped listening on port 34643
+1591730031441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTK7EAH"
+1591730034974	Marionette	INFO	Listening on port 43619
+1591730035062	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (firefox:33848): WARNING **: 13:14:08.230: Cannot launch default application: No application is registered as handling this file
+
+** (firefox:33848): WARNING **: 13:14:08.231: Cannot launch default application: No application is registered as handling this file
+
+** (firefox:33848): WARNING **: 13:14:25.526: Cannot launch default application: No application is registered as handling this file
+1591730086944	Marionette	INFO	Stopped listening on port 43619
+1591730498299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee5G2nq"
+1591730501836	Marionette	INFO	Listening on port 39477
+1591730501915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591730520325	Marionette	INFO	Stopped listening on port 39477
+1591730851583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFuSdjr"
+1591730855118	Marionette	INFO	Listening on port 42597
+1591730855196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591730871059	Marionette	INFO	Stopped listening on port 42597
+1591732795195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef4vyrr"
+1591732798840	Marionette	INFO	Listening on port 37561
+1591732798913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591732830833	Marionette	INFO	Stopped listening on port 37561
+1591732882519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFqHh2m"
+1591732886150	Marionette	INFO	Listening on port 33129
+1591732886243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "STATE_IS_BROKEN without a known reason. Full state was: 1"
+1591735260839	Marionette	INFO	Stopped listening on port 33129
+1591735265119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqYc0LB"
+1591735268606	Marionette	INFO	Listening on port 40257
+1591735268638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1591741922681	Marionette	INFO	Stopped listening on port 40257
+1591768657434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezIW6xd"
+1591768661033	Marionette	INFO	Listening on port 45629
+1591768661077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591768696491	Marionette	INFO	Stopped listening on port 45629
+1591768939026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYWvYaL"
+1591768942492	Marionette	INFO	Listening on port 36449
+1591768942543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
