@@ -24,7 +24,9 @@ class GroundMotion:
         self._read_acel()
 
     def _read_asa(self):
-        path = Path("./files/asa/{}".format(self.name))
+        path = Path(f"./files/asa/{self.name}")
+        if not path.exists():
+            raise FileNotFoundError
         data_frame = pd.read_csv(path,
                                  sep=r'\s+',
                                  header=None,
@@ -36,25 +38,12 @@ class GroundMotion:
                                  compression=None)
         return data_frame
 
-    def _read_acel(self):
-        path = Path("./files/asa.h5")
-        try:
-            data_frame = pd.read_hdf(path)
-        except FileNotFoundError:
-            path.touch()
+    def _save_hdf5(self, data_frame):
+        path = Path("./files/accel.h5")
+        name = self.name.replace(".", "")
+        with pd.HDFStore(path) as hdf_storage:
+            hdf_storage[name] = data_frame
 
-class Manager:
-
-    ground_motions = []
-
-    @staticmethod
-    def list_asa_files():
-        path = Path("./files/asa")
-        files = [f.name for f in path.iterdir()]
-        return files
-
-    @staticmethod
-    def update_ground_motions():
-        files = Manager.list_asa_files()
-        Manager.ground_motions = [GroundMotion(f) for f in files]
-        return Manager.ground_motions
+    def export_to_hdf5(self):
+        data_frame = self._read_asa()
+        self._save_hdf5(data_frame)
