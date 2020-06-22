@@ -85,6 +85,10 @@ class FileManager:
             except (ParserError, EmptyDataError):
                 print(f"File {events.name} isn't viable")
 
+    def generate_pseudo_accel(self):
+        ground_motions = self.ground_motions
+        for events in ground_motions:
+            events.generate_pseudo_accel()
 if __name__ == '__main__':
     fm = FileManager()
     fm.convert_asa_to_hdf()

@@ -2,6 +2,9 @@ from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.select import Select
 
+# This is a commentary
+# for multiple lines
+
 class WebBrowser(Firefox):
 
     home_url = \
